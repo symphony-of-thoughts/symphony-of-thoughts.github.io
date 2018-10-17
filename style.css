@@ -1,0 +1,191 @@
+*{
+    box-sizing: border-box;
+    max-width: 900px;
+    margin: auto;
+    padding: 0;
+
+}
+
+
+#logo {
+margin-top: 35px;
+text-align: center;
+   
+
+}
+
+#logo2 {
+    width: 350px;
+    height: auto;
+}
+
+nav {
+    width: 300px;
+    
+    text-align: center;
+
+    border-top: .1px solid gray ;
+    border-bottom: .1px solid gray ;
+    
+    
+   
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+
+
+}
+
+#nav_bar li {
+    display: inline;
+
+}
+#nav_bar a {
+    text-decoration: none;
+    color: orange;
+    font-size: 20px;
+   font-weight: 600;
+}
+
+#space {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+#read_now {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#sub-heading {
+    width: 900px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+    border-bottom: .25px solid;
+    padding-bottom: 20px;
+}
+
+
+.picture {
+    
+    margin-top:50px;
+    width: 800px;
+    text-align: center;    
+}
+
+.pic1 {
+    width: 200px;
+    height: 200px;
+    background:linear-gradient(to top,
+    rgba(0,0,0,0.45),rgba(0,0,0,.45)), url(picmayb/stream2.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+
+.pic2 {
+    width: 200px;
+    height: 200px;
+    background:linear-gradient(to top,
+    rgba(0,0,0,0.45),rgba(0,0,0,.45)), url(picmayb/meditation.jpg);
+    background-size: cover;
+    display: inline-block;
+}
+
+.pic3 {
+    width: 200px;
+    height: 200px;
+    background:linear-gradient(to top,
+    rgba(0,0,0,0.45),rgba(0,0,0,.45)), url(picmayb/touart.jpg);
+    background-size:cover;
+    display: inline-block;
+}
+
+#grace {
+    color: white;
+    padding-top: 145px;
+}
+#suffering {
+    color: white;
+    padding-top: 145px;
+}
+#swiss_friend {
+    color: white;
+    padding-top: 145px;
+}
+
+
+footer {
+
+    width: 900px;
+    border-top: .25px solid;
+    margin-top: 100px; }
+   
+
+/* Style for Meditation on Grace */
+#heading1 {
+    font-family: 'Lato', sans-serif;
+    margin-top:60px;
+    text-align: center;
+    color: orange;
+    
+}
+#heading_about {
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+    margin-left: 100px;
+    color: orange;
+    
+}
+
+
+#content {
+    width: 700px;
+    font-family: 'Lato', sans-serif;
+    line-height: 2.1em;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify center;
+    
+}
+
+#content_about {
+    width: 700px;
+    font-family: 'Lato', sans-serif;
+    line-height: 2.1em;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+
+
+/*#tim {
+    width: 335px;
+    height: 350px;
+    margin-top: 75px;
+    margin-bottom: 35px;
+} */
+
+#tim {
+    width: 350px;
+    height: 300px;
+    margin-top: 75px;
+    margin-bottom: 35px;
+}
+
+
+/* For Contact */
+
+#table {
+    font-family: 'Lato', sans-serif;
+    margin-top: 100px;
+    
+    color:black;}
+.col1 {
+    width: 50px;
+    
+}
